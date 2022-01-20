@@ -1,1 +1,1 @@
-# I have successfully completed data science toolbox.
+# I have successfully completed data science toolbox course.
